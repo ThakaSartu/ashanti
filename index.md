@@ -2,7 +2,7 @@
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
-4 # UNiVERSE####################################CORaL#####
+4 # UNiVERSE##################################ASHANTi#####
 {% endhighlight %}
 
 ## Hole To Another Universe
@@ -21,5 +21,5 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
-4 # UNiVERSE####################################CORaL#####
+4 # UNiVERSE##################################ASHANTi#####
 {% endhighlight %}
